@@ -3,7 +3,7 @@
 ## I am a beginner software test engineer/QA Engineer.
 
 ## My resume
-[—сылка на мое резюме](https://drive.google.com/file/d/1L02CqaJFzr_UW8X2_EpnDs22gGO8Ja0B/view?usp=share_link)
+[—сылка на мое резюме](https://drive.google.com/file/d/1L02CqaJFzr_UW8X2_EpnDs22gGO8Ja0B/view?usp=sharing/)
 
 Hard skils
 
