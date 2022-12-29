@@ -1,4 +1,4 @@
-[!(img src="https://github.com/oleggalyant/oleggalyant/blob/main/assets/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF.png" alt="100" width="180")]
+[![Заголовок]((https://github.com/oleggalyant/oleggalyant/blob/main/assets/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF.png)] (alt="200" width="500")
 
 ## Я инженер  по тестированию ПО/QA Engineer.
 
