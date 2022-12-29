@@ -5,6 +5,7 @@
 ## My resume
 [—сылка на мое резюме](https://drive.google.com/file/d/1L02CqaJFzr_UW8X2_EpnDs22gGO8Ja0B/view?usp=sharing/)
 
-Hard skils
+## Languages and Tools
+![Flutler](https://img.shields.io/badge/-Flutler-<COLOR>)
 
 Soft skils
