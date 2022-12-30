@@ -8,5 +8,6 @@
 ## Languages and Tools
 ![JIRA](https://img.shields.io/badge/-JIRA-090909?style=for-the-badge&logo=appveyor)
 ![TestLinke](https://img.shields.io/badge/-TestLinke-091905?style=for-the-badge&logo=appveyor)
+![ Заголовок ](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
 
 Soft skils
