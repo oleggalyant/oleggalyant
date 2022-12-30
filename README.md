@@ -11,6 +11,6 @@
 ![ Заголовок ](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
 ![ Заголовок ](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
 ![ Заголовок ](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
-![ Заголовок ](https://img.shields.io/badge/Readmine-090909?style=for-the-badge&logo=readmine&logoColor=00618a)
+![ Заголовок ](https://img.shields.io/badge/Readmine-090909?style=for-the-badge&logo=readmine&logoColor=B32024)
 
 Soft skils
