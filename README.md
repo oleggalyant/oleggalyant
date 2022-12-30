@@ -2,8 +2,7 @@
 
 ## I am a beginner software test engineer/QA Engineer.
 
-## My resume
-[ Ссылка на мое резюме ](https://drive.google.com/drive/folders/1kOB0wKaumFyOuFRn9CgeuThDaM_nWEgH?usp=sharing)
+## My resume ![ Ссылка на мое резюме ](https://drive.google.com/drive/folders/1kOB0wKaumFyOuFRn9CgeuThDaM_nWEgH?usp=sharing/)
 
 ## Languages and Tools
 ![ Заголовок ](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
@@ -13,4 +12,4 @@
 ![ Заголовок ](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
 ![ Заголовок ](https://img.shields.io/badge/Readmine-090909?style=for-the-badge&logo=readmine&logoColor=№B32024)
 
-Soft skils
+##  Professional skills 
