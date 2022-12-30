@@ -10,5 +10,6 @@
 ![TestLinke](https://img.shields.io/badge/-TestLinke-091905?style=for-the-badge&logo=appveyor)
 ![ Заголовок ](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
 ![ Заголовок ](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
+![ Заголовок ](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
 
 Soft skils
