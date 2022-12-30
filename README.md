@@ -1,4 +1,4 @@
-![Заголовок](https://github.com/oleggalyant/oleggalyant/blob/main/assets/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF.png)
+![Заголовок](https://github.com/oleggalyant/oleggalyant/commit/5c2c57d56bc392cce910b264e76e26ccbc81d0a0#diff-f26a999437882b356672dbd6c5a6d04fc6b307839b1a8dc0690c1654f9b972f3.png)
 
 ## I am a beginner software test engineer/QA Engineer.
 
