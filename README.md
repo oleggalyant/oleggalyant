@@ -7,5 +7,6 @@
 
 ## Languages and Tools
 ![JIRA](https://img.shields.io/badge/-JIRA-090909?style=for-the-badge&logo=appveyor)
+![TestLinke](https://img.shields.io/badge/-TestLinke-091905?style=for-the-badge&logo=appveyor)
 
 Soft skils
