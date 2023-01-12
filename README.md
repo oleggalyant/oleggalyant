@@ -3,7 +3,7 @@
 ## I am a beginner software test engineer/QA Engineer.
 
 ## My resume
-![Link to my resume](https://drive.google.com/drive/folders/1kOB0wKaumFyOuFRn9CgeuThDaM_nWEgH?hl=r)
+ - [Link to my resume](https://drive.google.com/drive/folders/1kOB0wKaumFyOuFRn9CgeuThDaM_nWEgH?hl=r)
 
 ## Languages and Tools
 [![ Заголовок ](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)](https://drive.google.com/drive/folders/1-9lHjmJ8PUvDB-XLGlw6ixaZb5dmb0QB?usp=share_link)
