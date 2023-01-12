@@ -2,7 +2,7 @@
 
 ## I am a beginner software test engineer/QA Engineer.
 
-[![Заголовок](My resume)](https://github.com/oleggalyant/oleggalyant/blob/main/assets4/%D0%93%D0%B0%D0%BB%D1%8F%D0%BD%D1%82%20%D0%9E%D0%BB%D0%B5%D0%B3%20%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B5%D0%B2%D0%B8%D1%87.pdf/)
+[![Заголовок](My resume)](https://github.com/oleggalyant/oleggalyant/blob/main/assets4/%D0%93%D0%B0%D0%BB%D1%8F%D0%BD%D1%82%20%D0%9E%D0%BB%D0%B5%D0%B3%20%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B5%D0%B2%D0%B8%D1%87-1.png)(https://github.com/oleggalyant/oleggalyant/blob/main/assets4/%D0%93%D0%B0%D0%BB%D1%8F%D0%BD%D1%82%20%D0%9E%D0%BB%D0%B5%D0%B3%20%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B5%D0%B2%D0%B8%D1%87-2.png)
 
 
 ## Languages and Tools
